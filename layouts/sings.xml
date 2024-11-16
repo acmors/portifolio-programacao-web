@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signs>
+    <sign>
+        <startDate>21/03</startDate>
+        <endDate>20/04</endDate>
+        <signName>Áries</signName>
+        <description>Pessoas de Áries são corajosas, entusiastas e cheias de energia.</description>
+    </sign>
+    <sign>
+        <startDate>21/04</startDate>
+        <endDate>20/05</endDate>
+        <signName>Touro</signName>
+        <description>Pessoas de Touro são confiáveis, pacientes e determinadas.</description>
+    </sign>
+    <sign>
+        <startDate>21/05</startDate>
+        <endDate>20/06</endDate>
+        <signName>Gêmeos</signName>
+        <description>Pessoas de Gêmeos são comunicativas, adaptáveis e curiosas.</description>
+    </sign>
+    <sign>
+        <startDate>21/06</startDate>
+        <endDate>22/07</endDate>
+        <signName>Câncer</signName>
+        <description>Pessoas de Câncer são emotivas, protetoras e intuitivas.</description>
+    </sign>
+    <sign>
+        <startDate>23/07</startDate>
+        <endDate>22/08</endDate>
+        <signName>Leão</signName>
+        <description>Pessoas de Leão são confiantes, generosas e carismáticas.</description>
+    </sign>
+    <sign>
+        <startDate>23/08</startDate>
+        <endDate>22/09</endDate>
+        <signName>Virgem</signName>
+        <description>Pessoas de Virgem são práticas, detalhistas e organizadas.</description>
+    </sign>
+    <sign>
+        <startDate>23/09</startDate>
+        <endDate>22/10</endDate>
+        <signName>Libra</signName>
+        <description>Pessoas de Libra são diplomáticas, equilibradas e sociáveis.</description>
+    </sign>
+    <sign>
+        <startDate>23/10</startDate>
+        <endDate>21/11</endDate>
+        <signName>Escorpião</signName>
+        <description>Pessoas de Escorpião são intensas, determinadas e misteriosas.</description>
+    </sign>
+    <sign>
+        <startDate>22/11</startDate>
+        <endDate>21/12</endDate>
+        <signName>Sagitário</signName>
+        <description>Pessoas de Sagitário são otimistas, aventureiras e independentes.</description>
+    </sign>
+    <sign>
+        <startDate>22/12</startDate>
+        <endDate>20/01</endDate>
+        <signName>Capricórnio</signName>
+        <description>Pessoas de Capricórnio são disciplinadas, ambiciosas e responsáveis.</description>
+    </sign>
+    <sign>
+        <startDate>21/01</startDate>
+        <endDate>18/02</endDate>
+        <signName>Aquário</signName>
+        <description>Pessoas de Aquário são inovadoras, independentes e humanitárias.</description>
+    </sign>
+    <sign>
+        <startDate>19/02</startDate>
+        <endDate>20/03</endDate>
+        <signName>Peixes</signName>
+        <description>Pessoas de Peixes são sensíveis, compassivas e imaginativas.</description>
+    </sign>
+</signs>
